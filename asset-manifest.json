@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mock-front-end/static/css/main.bb618d6e.css",
+    "main.js": "/mock-front-end/static/js/main.cc584557.js",
+    "static/js/787.a2f94b31.chunk.js": "/mock-front-end/static/js/787.a2f94b31.chunk.js",
+    "static/media/backstagetalks_cover_issue_6.png": "/mock-front-end/static/media/backstagetalks_cover_issue_6.167813af2c961292d28f.png",
+    "static/media/backstagetalks_cover_issue_5.png": "/mock-front-end/static/media/backstagetalks_cover_issue_5.1f520dcf7d7d4b079b28.png",
+    "static/media/backstagetalks_cover_issue_4.png": "/mock-front-end/static/media/backstagetalks_cover_issue_4.dfba35aaee1a292a53d0.png",
+    "static/media/backstagetalks_cover_issue_3.png": "/mock-front-end/static/media/backstagetalks_cover_issue_3.345528d1f2fdbad67e6b.png",
+    "static/media/backstagetalks_cover_issue_2.png": "/mock-front-end/static/media/backstagetalks_cover_issue_2.7627d576b39e62852c94.png",
+    "static/media/backstagetalks_cover_issue_1.png": "/mock-front-end/static/media/backstagetalks_cover_issue_1.dc0dce4c09e077f05767.png",
+    "index.html": "/mock-front-end/index.html",
+    "main.bb618d6e.css.map": "/mock-front-end/static/css/main.bb618d6e.css.map",
+    "main.cc584557.js.map": "/mock-front-end/static/js/main.cc584557.js.map",
+    "787.a2f94b31.chunk.js.map": "/mock-front-end/static/js/787.a2f94b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb618d6e.css",
+    "static/js/main.cc584557.js"
+  ]
+}
