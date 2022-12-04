@@ -11,7 +11,7 @@ function FixedContent() {
         <div className = "bottomLeft"><p className='bottomLeft-text'>Backstage Talks is a magazine of casual, but in depth dialogues on design and business. Our decisions shape and influence this complex world—to have a chance to make the right ones, we need to talk.</p></div>
         <div className = "bottomRight">
             {numbers.map((number) =>
-                <HashLink className="link" smooth to={`/#book-${number}`}><p className='bottomRight-menu'>Issue #{number}</p> </HashLink>
+                <HashLink className="link" smooth to={`#book-${number}`}><p className='bottomRight-menu'>Issue #{number}</p> </HashLink>
             )}
         </div>
     </div>
