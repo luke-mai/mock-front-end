@@ -1,0 +1,15 @@
+html {
+    scroll-snap-type: y mandatory;
+}
+
+.page-container {
+  height: 600vh;
+}
+
+section
+{
+  scroll-snap-align: start;
+  height: 100vh;
+  width: 100vw;   
+  margin: auto;
+}

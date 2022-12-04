@@ -1,0 +1,53 @@
+.topLeft {
+    position: fixed;
+    top: 20px;
+    left:20px;
+    transform: scale(0.5);
+    transform-origin: 0% 0%;
+}
+
+.topRight {
+    position: fixed;
+    top:20px;
+    right:20px;
+    
+}
+
+.bottomLeft {
+    position: fixed;
+    bottom:20px;
+    left:20px;
+    width: 300px;
+}
+
+p.bottomRight-menu{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.bottomRight {
+    position: fixed;
+    bottom:20px;
+    right:20px;  
+    width: 100px; 
+    margin: auto;
+}
+
+.bottomRight .link{
+    display: block;
+    right: 0px;
+    margin: auto;
+    display: flex;
+}
+
+p.topRight-text, p.bottomLeft-text{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+

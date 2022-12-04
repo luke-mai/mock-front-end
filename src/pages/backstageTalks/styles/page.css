@@ -1,0 +1,27 @@
+.container{
+    border: 10px;
+    width: 500px;
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.page-element{
+    margin: auto;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    display: inline-block;
+    text-align: center;
+}
+
+p.text{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+
